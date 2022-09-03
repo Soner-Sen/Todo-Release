@@ -1,16 +1,13 @@
 # todo
 
-A new Flutter project.
+A todo app with Firebase login(validation).
 
-## Getting Started
+Clone:   
+Press the green "Code" button and download the zip file.   
+Unzip the file where your other projects are.   
+Open the terminal in the folder and execute the commands:   
 
-This project is a starting point for a Flutter application.
+flutter pub get  
+flutter run 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![finish](https://user-images.githubusercontent.com/45995741/188282127-5a404b8d-dfb5-4904-8f60-963bf3e44e4d.png)
